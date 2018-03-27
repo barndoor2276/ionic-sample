@@ -88,7 +88,7 @@ change the text used in the app by modifying only one file.
 
 To add new languages, add new files to the `src/assets/i18n` directory,
 following the pattern of LANGCODE.json where LANGCODE is the language/locale
-code (ex: en/gb/de/es/etc.).
+code (ex: en/gb/de/es/etc.)
 
 ### Changing the Language
 
